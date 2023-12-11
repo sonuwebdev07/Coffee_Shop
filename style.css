@@ -151,6 +151,10 @@ html ::-webkit-scrollbar{
     border-radius: 10px;
 }
 
+.about-div div{
+    padding: 10px;
+}
+
 #about-btn{
     width: 200px;
     height: 36px;
